@@ -43,3 +43,7 @@ footer{
 .about_content .btn{
     margin:0px 0px;
 }
+
+body{
+    background-size: 150vw;
+}

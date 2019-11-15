@@ -1,3 +1,6 @@
+body{
+    background-size:150vw;
+}
 .type1 img, .about_pic{
     opacity: 0.6;
 }
