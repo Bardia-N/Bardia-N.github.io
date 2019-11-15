@@ -1,0 +1,45 @@
+.about_pic{
+    opacity: 0.6;
+}
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 3%;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.btn{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    font-size: 30px;
+    cursor: pointer;
+    margin: 30px 10px;
+}
+
+.btn:hover{
+    background-color: Red;
+}
+
+.about_pic img{
+    width:100%;
+}
+
+.about_content{
+    position: absolute;
+    top: 440px;
+    text-align: center;
+    font-family: fantasy;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.about_content .btn{
+    margin:0px 0px;
+}
