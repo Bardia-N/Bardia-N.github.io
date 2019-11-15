@@ -3,6 +3,7 @@ body{
 }
 .type1 img, .about_pic{
     opacity: 0.6;
+    background-size:150vw;
 }
 
 .head_content{
