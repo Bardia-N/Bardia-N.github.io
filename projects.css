@@ -75,3 +75,8 @@ a:hover{
 .btn:hover{
     background-color: Red;
 }
+
+a{
+    text-decoration: none;
+    color: white;
+}
